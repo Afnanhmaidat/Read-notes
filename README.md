@@ -1,5 +1,4 @@
-# Read-notes
-Give yourself a learning challange
+
 # Read-notes
 Give yourself a learning challange
 
